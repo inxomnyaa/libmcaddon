@@ -1,0 +1,6 @@
+name: libmcaddon
+version: 0.2.0
+antigen: xenialdan\libmcaddon
+api: [3.0.0-ALPHA7,3.0.0-ALPHA8,3.0.0-ALPHA9]
+php: [7.2]
+author: XenialDan
